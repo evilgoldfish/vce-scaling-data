@@ -1,0 +1,113 @@
+ID,name,meanScore,standardDeviation,scaledScore20,scaledScore25,scaledScore30,scaledScore35,scaledScore40,scaledScore45,scaledScore50,isSmallStudy
+AC,Accounting,30.6,7.2,20,25,30,36,41,46,50,FALSE
+AH,Agricultural & Horticultural Studies,24.5,6.9,14,19,23,28,34,41,50,FALSE
+AL03,Algorithmics (HESS),35.1,6.5,24,30,35,40,44,48,50,FALSE
+AT,Art,27.2,7.6,14,20,26,32,38,45,50,FALSE
+BI,Biology,30.5,7.2,20,25,30,36,41,46,50,FALSE
+BM,Business Management,26.7,7.2,16,21,26,31,37,43,50,FALSE
+CH,Chemistry,33.8,7.2,22,28,34,39,44,47,50,FALSE
+CC,Classical Studies,30.1,7.6,19,24,30,36,41,46,50,FALSE
+IT02,Computing: Informatics,25.7,6.9,14,19,24,30,36,43,50,FALSE
+IT03,Computing: Software Development,27.7,6.9,16,21,26,32,38,44,50,FALSE
+DA,Dance,28.3,6.7,19,24,29,34,39,44,50,FALSE
+DR,Drama,27.9,7.2,17,22,27,33,39,44,50,FALSE
+EC,Economics,32.3,7.0,22,27,32,37,42,46,50,FALSE
+EN,English,28.1,7.5,17,22,28,33,39,45,50,FALSE
+EF,English (EAL),29.4,7.9,17,23,29,35,41,46,50,FALSE
+EG,English Language,32.8,7.0,22,28,33,38,43,47,50,FALSE
+EV,Environmental Science,28.4,7.2,18,22,28,33,38,44,50,FALSE
+XI03,Extended Investigation,32.3,7.2,21,27,32,38,43,47,50,FALSE
+FT,Food Studies,24.0,7.2,14,18,23,28,35,42,50,FALSE
+GE,Geography,28.8,7.1,18,23,29,34,40,45,50,FALSE
+HH,Health and Human Development,26.5,7.3,16,21,26,31,37,43,50,FALSE
+HI17,History: Ancient History,27.8,8.1,15,21,27,34,40,46,50,FALSE
+HA,History: Australian History,27.9,8.1,16,21,27,33,40,45,50,FALSE
+HR,History: Revolutions,29.3,7.6,18,23,29,35,40,46,50,FALSE
+IE,"Industry and Enterprise
+Languages:",22.5,7.3,9,14,20,27,35,43,50,FALSE
+AR,Arabic,29.4,6.8,18,24,29,34,40,45,50,FALSE
+AM,Armenian,0,0,0,0,0,0,0,0,0,TRUE
+AU,Auslan,30.8,7.3,20,25,30,35,40,45,50,FALSE
+LO50,Bosnian,0,0,0,0,0,0,0,0,0,TRUE
+LO53,Chin Hakha,30.5,5.6,21,25,28,32,37,42,50,FALSE
+CN,Chinese First Language,35.3,7.4,20,28,34,40,45,48,50,FALSE
+CK,Chinese Second Lang. Adv.,38.0,7.3,26,32,38,43,47,51,53,FALSE
+CL,Chinese Second Language,40.4,6.6,30,36,41,45,49,52,54,FALSE
+AG,Classical Greek,39.6,6.7,29,35,41,45,48,51,53,FALSE
+CR,Croatian,31.6,6.4,22,28,33,39,43,47,50,FALSE
+DU,Dutch,0,0,0,0,0,0,0,0,0,TRUE
+FP,Filipino,31.6,6.4,21,25,30,35,39,44,50,FALSE
+FR,French,40.3,6.6,30,36,41,45,49,52,53,FALSE
+GN,German,38.4,6.4,29,34,39,43,47,49,51,FALSE
+MG,Greek,34.2,6.3,24,29,34,39,43,47,50,FALSE
+HB,Hebrew,41.1,6.2,31,37,43,47,50,52,54,FALSE
+HI,Hindi,35.7,7.2,20,27,34,40,45,49,50,FALSE
+HU,Hungarian,0,0,0,0,0,0,0,0,0,TRUE
+AI,Indigenous Languages,0,0,0,0,0,0,0,0,0,TRUE
+IN,Indonesian First Language,0,0,0,0,0,0,0,0,0,TRUE
+IX,Indonesian Second Lang.,37.0,6.5,26,33,38,42,46,48,50,FALSE
+IL,Italian,36.5,6.0,27,33,37,41,44,47,50,FALSE
+JA,Japanese First Language,0,0,0,0,0,0,0,0,0,TRUE
+JS,Japanese Second Language,38.1,6.7,27,33,39,43,47,50,51,FALSE
+LO55,Karen,23.6,5.9,17,21,25,29,34,40,50,FALSE
+KH,Khmer,28.5,5.6,19,23,28,32,37,43,50,FALSE
+KO,Korean First Language,0,0,0,0,0,0,0,0,0,TRUE
+KS,Korean Second Language,39.0,5.8,27,34,39,44,47,49,51,FALSE
+LA,Latin,45.0,6.1,35,41,46,50,52,54,55,FALSE
+MA,Macedonian,31.3,5.1,25,28,31,35,38,42,50,FALSE
+ML,Maltese,0,0,0,0,0,0,0,0,0,TRUE
+PN,Persian,27.9,6.6,16,21,26,32,38,44,50,FALSE
+PO,Polish,35.3,5.9,24,29,34,38,42,46,50,FALSE
+PG,Portuguese,31.7,3.5,23,27,30,34,38,43,50,FALSE
+LO49,Punjabi,31.5,7.3,19,25,31,37,42,47,50,FALSE
+RO,Romanian,0,0,0,0,0,0,0,0,0,TRUE
+RU,Russian,36.5,7.2,24,31,37,42,46,49,51,FALSE
+SE,Serbian,31.2,4.8,23,26,30,33,37,42,50,FALSE
+SI,Sinhala,35.5,6.2,24,29,34,39,43,47,50,FALSE
+SP,Spanish,35.0,7.0,23,29,35,40,44,48,50,FALSE
+SW,Swedish,0,0,0,0,0,0,0,0,0,TRUE
+TA,Tamil,0,0,0,0,0,0,0,0,0,TRUE
+TU,Turkish,30.3,7.4,17,22,28,34,39,45,50,FALSE
+UK,Ukrainian,0,0,0,0,0,0,0,0,0,TRUE
+LO54,Vietnamese First Language,32.4,6.3,21,27,32,37,42,46,50,FALSE
+VT,Vietnamese Second Lang.,36.0,6.7,24,30,36,40,45,48,50,FALSE
+LS,Legal Studies,28.3,7.5,17,22,28,34,39,45,50,FALSE
+LI,Literature,30.8,7.3,20,25,31,36,41,46,50,FALSE
+NF,Mathematics: Further Mathematics,27.7,7.1,18,23,27,33,38,44,50,FALSE
+NJ,Mathematics: Mathematical Methods,34.0,8.4,21,28,35,40,45,49,51,FALSE
+NS,Mathematics: Specialist Mathematics,40.3,8.1,27,35,41,47,51,53,55,FALSE
+ME,"Media
+Music:",26.3,7.3,15,20,25,31,37,44,50,FALSE
+MC05,Music Investigation,30.0,7.2,21,25,28,32,36,41,50,FALSE
+MC04,Music Performance,29.8,7.1,19,24,30,35,40,45,50,FALSE
+MD,Music Style and Composition,31.1,7.4,19,25,32,38,43,47,50,FALSE
+OS,Outdoor and Environmental Studies,25.0,6.9,15,19,24,29,34,41,50,FALSE
+PL,Philosophy,29.2,7.6,17,23,29,34,40,45,50,FALSE
+PE,Physical Education,27.2,7.3,17,21,27,32,38,44,50,FALSE
+PH,Physics,32.0,7.2,21,26,32,37,42,47,50,FALSE
+PS03,Politics: Australian Politics,32.1,7.2,21,27,32,38,42,47,50,FALSE
+PS05,Politics: Global Politics,32.3,7.2,21,27,33,38,42,47,50,FALSE
+DT,Product Design and Technology,24.2,7.0,13,18,23,28,35,42,50,FALSE
+PY,Psychology,28.3,7.3,18,23,28,33,39,45,50,FALSE
+RS,Religion and Society,28.6,7.5,18,23,28,34,39,45,50,FALSE
+SO03,Sociology,25.5,7.5,15,19,25,30,36,43,50,FALSE
+SA,Studio Arts,26.1,7.4,14,19,24,30,37,44,50,FALSE
+SE03,Systems Engineering,25.6,6.5,15,19,24,30,36,42,50,FALSE
+TT,Texts and Traditions,29.5,7.8,20,24,29,34,39,44,50,FALSE
+TS,Theatre Studies,28.7,7.2,18,23,28,34,39,45,50,FALSE
+VC,Visual Communication Design,26.8,7.2,16,21,26,32,38,44,50,FALSE
+BU23,VCE VET Business,25.7,7.2,15,19,23,28,34,41,50,FALSE
+CT41,VCE VET Community Services,24.2,6.9,14,18,23,28,34,41,50,FALSE
+MU07,VCE VET Creative and Digital Media,25.4,6.7,16,20,25,30,35,42,50,FALSE
+DN06,VCE VET Dance,27.0,7.0,18,22,27,32,37,43,50,FALSE
+EG16,VCE VET Engineering Studies,23.9,5.8,18,21,25,30,34,40,50,FALSE
+EQ05,VCE VET Equine Studies,27.3,7.4,16,20,26,31,37,44,50,FALSE
+FN19,VCE VET Furnishing,24.0,5.3,18,21,25,30,34,40,50,FALSE
+IN60,VCE VET Information Technology,25.5,6.2,16,20,24,29,34,41,50,FALSE
+ET16,VCE VET Integrated Technologies,23.6,7.7,13,17,22,28,35,43,50,FALSE
+HS32,VCE VET Hospitality (Kitchen Operations),25.4,6.6,15,19,24,29,34,41,50,FALSE
+HS31,VCE VET Hospitality,26.0,7.2,15,20,25,30,36,42,50,FALSE
+LB21,VCE VET Laboratory Skills,30.8,6.5,20,25,31,36,41,46,50,FALSE
+MI19,VCE VET Music Performance,26.8,6.6,17,21,26,31,36,42,50,FALSE
+MI30,VCE VET Music Sound Production,26.5,6.8,16,20,25,29,35,41,50,FALSE
+SR41,VCE VET Sport and Recreation,23.8,6.7,14,18,22,27,33,40,50,FALSE
